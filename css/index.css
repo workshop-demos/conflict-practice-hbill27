@@ -16,7 +16,11 @@ body{
 }
 
 a {
+<<<<<<< HEAD
+	color: #0f0;
+=======
 	color: #f00;
+>>>>>>> main
 }
 
 a:hover{
